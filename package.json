@@ -1,0 +1,23 @@
+{
+  "name": "@skale-labs/node-web-managerrr",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "LGPL-3.0",
+  "dependencies": {
+    "@skale-labs/skale-api": "^0.3.23",
+    "handlebars": "^4.0.11",
+    "koa": "2.5.0",
+    "koa-route": "3.2.0",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "koa-views": "^6.1.4"
+  },
+  "devDependencies": {}
+}
